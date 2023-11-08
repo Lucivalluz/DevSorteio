@@ -57,6 +57,7 @@ button {
     height: 72px;
     border-radius: 10px;
     background: #AEC346;
+    border: none;
 
     color: #FFF;
     font-size: 36px;
@@ -102,6 +103,7 @@ button{
     font-size: 10px;
     width: 80px;
     height: 25px;
+    border: none;
 }
 
 }
